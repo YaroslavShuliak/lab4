@@ -1,0 +1,6 @@
+C:\Users\ZAKHAR\GIT4\lab4\Z3\bin\Debug\Z3.exe.config
+C:\Users\ZAKHAR\GIT4\lab4\Z3\bin\Debug\Z3.exe
+C:\Users\ZAKHAR\GIT4\lab4\Z3\bin\Debug\Z3.pdb
+C:\Users\ZAKHAR\GIT4\lab4\Z3\obj\Debug\Z3.csproj.CoreCompileInputs.cache
+C:\Users\ZAKHAR\GIT4\lab4\Z3\obj\Debug\Z3.exe
+C:\Users\ZAKHAR\GIT4\lab4\Z3\obj\Debug\Z3.pdb

@@ -1,0 +1,2 @@
+C:\Users\ZAKHAR\GIT4\lab4\Console\obj\Debug\Z1.csproj.AssemblyReference.cache
+C:\Users\ZAKHAR\GIT4\lab4\Console\obj\Debug\Z1.csproj.CoreCompileInputs.cache
